@@ -1,3 +1,11 @@
+
+
+
+# СКОПИРОВАНО ИЗ YA_NEWS - НАДО ЗАМЕНИТЬ, ЭТО ДЗ
+
+# ТУТ - unittest
+
+
 # news/tests/test_logic.py
 from http import HTTPStatus
 

@@ -1,3 +1,12 @@
+
+
+
+# СКОПИРОВАНО ИЗ YA_NEWS - НАДО ЗАМЕНИТЬ, ЭТО ДЗ
+
+# ТУТ - unittest
+
+
+
 from django.conf import settings
 from django.test import TestCase
 
